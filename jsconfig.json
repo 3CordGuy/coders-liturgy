@@ -1,9 +1,3 @@
 {
-  "compilerOptions": {
-    "jsx": "react-jsx",
-    "baseUrl": ".",
-    "paths": {
-      "~/*": ["./app/*"]
-    }
-  }
+	"extends": "./.svelte-kit/tsconfig.json"
 }
