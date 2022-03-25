@@ -1,27 +1,44 @@
 <script>
-	import Eye from '../icons/eye.svelte';
-	import Growth from '../icons/growth.svelte';
-	import Heart from '../icons/heart.svelte';
-	import PullRequest from '../icons/pr.svelte';
-	import Approval from '../icons/approval.svelte';
-	import Rain from '../icons/rain.svelte';
-	import Talk from '../icons/talk.svelte';
-	import Pray from '../icons/pray.svelte';
+	import PageHeading from '../components/page-heading.svelte';
+	import PrayerList from '../components/prayer-list.svelte';
+	import prayerList from '../components/list';
+
+	let filter = '';
+	const getList = (term) => {
+		if (term) {
+			return prayerList.filter((item) => {
+				if (item.title.toLowerCase().includes(term.toLowerCase())) {
+					return item;
+				} else if (item.description.toLowerCase().includes(term.toLowerCase())) {
+					return item;
+				}
+			});
+		}
+		return prayerList;
+	};
+
+	$: list = getList(filter);
 </script>
 
 <svelte:head>
 	<title>Coder's Liturgy | Prayers</title>
 </svelte:head>
 
-<h1>This will be a list of prayers!</h1>
+<div class="px-4 sm:px-6 lg:px-8">
+	<PageHeading text="Prayers" />
+	<div class="mt-8 rounded py-4 px-8 w-1/2">
+		<div>
+			<input
+				class="rounded px-2 py-2 outline-none"
+				placeholder="Filter Prayers"
+				type="text"
+				bind:value={filter}
+			/>
+			{#if filter}
+				<button class="text-rose-600 ml-2 px-2" on:click={() => (filter = '')}>Clear Filter</button>
+			{/if}
+		</div>
 
-<div class="w-1/2 flex flex-row">
-	<Eye classes="text-green-400" />
-	<Growth classes="text-blue-400" />
-	<Heart classes="text-red-400" />
-	<PullRequest classes="text-indigo-400" />
-	<Approval classes="text-purple-400" />
-	<Rain classes="text-sky-400" />
-	<Talk classes="text-yellow-400" />
-	<Pray classes="text-pink-400" />
+		<PrayerList items={list} />
+	</div>
 </div>
