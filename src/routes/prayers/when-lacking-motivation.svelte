@@ -1,5 +1,7 @@
 <script>
 	import PrayerHeading from '../../components/prayer-heading.svelte';
+	import Verse from '../../components/prayer-verse.svelte';
+	import VerseBlock from '../../components/prayer-verse-block.svelte';
 </script>
 
 <svelte:head>
@@ -31,13 +33,32 @@
 	<p>Amen.</p>
 </div>
 <div class="text-gray-400 py-8">
-	<h2 class="text-yellow-400 font-extrabold mb-4" id="verses-to-consider">Verses to Consider</h2>
-	<ul>
-		<li>Psalm 87:7</li>
-		<li>1 Cor 15:58</li>
-		<li>Col 3:23-24</li>
-		<li>Prov 3:5-6</li>
-	</ul>
+	<VerseBlock>
+		<Verse book="Psalm" location="87:7" translation="ESV">
+			<p><sup>7</sup>Singers and dancers alike say, “All my ysprings are in you.”</p>
+		</Verse>
+		<Verse book="1 Cor" location="15:58" translation="ESV">
+			<p>
+				<sup>58</sup>Therefore, my beloved brothers, be steadfast, immovable, always abounding in
+				cthe work of the Lord, knowing that in the Lord dyour labor is not in vain.
+			</p>
+		</Verse>
+		<Verse book="Col" location="3:23-24" translation="ESV">
+			<p>
+				<sup>23</sup>Whatever you do, work heartily, as for the Lord and not for men,
+				<sup>24</sup>knowing that from the Lord ayou will receive the inheritance as your reward.
+				You are serving the Lord Christ.
+			</p>
+		</Verse>
+		<Verse book="Prov" location="3:5-6" translation="ESV">
+			<p>
+				<sup>5</sup>Trust in the LORD with all your heart, and do not lean on your own
+				understanding.
+
+				<sup>6</sup>In all your ways acknowledge him, and he will make straight your paths.
+			</p>
+		</Verse>
+	</VerseBlock>
 </div>
 
 <style>
