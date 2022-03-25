@@ -4,8 +4,13 @@
 	import Nav from '../components/nav.svelte';
 </script>
 
-<Hero>
-	<Nav slot="nav" />
-</Hero>
-
-<slot />
+<div class="h-full flex flex-col">
+	<section class="flex-shrink-0 flex-2 justify-between">
+		<Hero>
+			<Nav slot="nav" />
+		</Hero>
+	</section>
+	<section class="flex-1">
+		<slot />
+	</section>
+</div>
