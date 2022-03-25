@@ -1,0 +1,22 @@
+<script>
+	export let classes;
+</script>
+
+<svg
+	class={classes}
+	width="100%"
+	height="100%"
+	viewBox="0 0 1080 1080"
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space="preserve"
+	style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+>
+	<g id="Layer1">
+		<path
+			d="M1080,0L0,0L0,1080L1080,1080L1080,0ZM894,508.8C894,360.445 735.378,240 540,240C344.622,240 186,360.445 186,508.8C186,596.472 242.308,678.635 336.868,728.943L292.2,912L448.277,768.42C478.191,774.514 509.029,777.6 540,777.6C735.378,777.6 894,657.155 894,508.8Z"
+			style="fill:currentColor;"
+		/>
+	</g>
+</svg>
