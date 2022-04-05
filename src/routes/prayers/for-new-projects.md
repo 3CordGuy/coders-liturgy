@@ -11,8 +11,6 @@ verses:
   - Rev 21:5
 ---
 
-# For New Projects/Code
-
 God of all Creation,
 
 At the dawn of this endeavor, I rejoice in Your mighty works.

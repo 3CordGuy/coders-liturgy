@@ -11,8 +11,6 @@ verses:
   - Psalm 121
 ---
 
-# For Pull Request/Code Submission
-
 God, as I prepare this submission of code,
 I thank You for the skills and knowledge and opportunity to do this work.
 

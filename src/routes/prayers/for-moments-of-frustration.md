@@ -11,8 +11,6 @@ verses:
   - James 1:2-4
 ---
 
-# For Moments of Frustration
-
 O God of Great Patience and Mercy,
 
 I thank you for your grace.

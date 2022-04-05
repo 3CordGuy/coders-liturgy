@@ -12,8 +12,6 @@ verses:
   - Phil 4:19
 ---
 
-# For Solving Problems / Fixing Bugs
-
 Dear God,
 
 I praise you for your generosity. You are good.

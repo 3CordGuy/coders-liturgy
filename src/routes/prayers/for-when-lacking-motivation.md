@@ -11,8 +11,6 @@ verses:
   - Prov 3:5-6
 ---
 
-# When Lacking Motivation
-
 Lord I admit I don't have it right now.
 The desire to move, to work this out.
 

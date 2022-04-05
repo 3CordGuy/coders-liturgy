@@ -10,8 +10,6 @@ verses:
   - Col 3:23
 ---
 
-# For Reviewing Code/Pull Requests
-
 Heavenly Father,
 
 Thank you for the chance to help others as you have reached out to help me.
