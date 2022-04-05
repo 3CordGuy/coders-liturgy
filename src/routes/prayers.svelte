@@ -1,21 +1,38 @@
+<script context="module">
+	export const load = async ({ fetch }) => {
+		const prayers = await fetch('/api/prayers.json');
+		const allPrayers = await prayers.json();
+
+		return {
+			props: {
+				prayers: allPrayers
+			}
+		};
+	};
+</script>
+
 <script>
 	import PageHeading from '../components/page-heading.svelte';
 	import PrayerList from '../components/prayer-list.svelte';
-	import prayerList from '../components/list';
+	export let prayers;
 
 	let filter = '';
 	const getList = (term) => {
 		if (term) {
-			return prayerList.filter((item) => {
-				if (item.title.toLowerCase().includes(term.toLowerCase())) {
+			return prayers.filter((item) => {
+				if (item.meta.title.toLowerCase().includes(term.toLowerCase())) {
 					return item;
-				} else if (item.description.toLowerCase().includes(term.toLowerCase())) {
+				} else if (item.meta.description.toLowerCase().includes(term.toLowerCase())) {
+					return item;
+				} else if (item.meta.tags.join('').includes(term.toLowerCase())) {
 					return item;
 				}
 			});
 		}
-		return prayerList;
+		return prayers;
 	};
+
+	console.log('Prayer data', prayers);
 
 	$: list = getList(filter);
 </script>

@@ -1,9 +1,14 @@
 ---
 title: For New Projects/Code
+description: For the creation of a glorious new project or codebase.
 tags:
   - new code
   - new projects
   - creation
+verses:
+  - Isaiah 40:6-8
+  - Isaiah 55:8-11
+  - Rev 21:5
 ---
 
 # For New Projects/Code
@@ -41,9 +46,3 @@ And as I begin this new work, I commit it all to you.
 Amen.
 
 Jesu Juva
-
-# Verses to Consider
-
-Isaiah 40:6-8
-Isaiah 55:8-11
-Rev 21:5

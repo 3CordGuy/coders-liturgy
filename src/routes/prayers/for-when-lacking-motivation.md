@@ -1,8 +1,14 @@
 ---
 title: When Lacking Motivation
+description: For when you just don't feel like it.
 tags:
   - motivation
   - joy
+verses:
+  - Psalm 87:7
+  - 1 Cor 15:58
+  - Col 3:23-24
+  - Prov 3:5-6
 ---
 
 # When Lacking Motivation
@@ -33,10 +39,3 @@ May the overflow of my relationship with you spill out onto this good work.
 And may I trust you in all of it.
 
 Amen.
-
-## Verses to Consider
-
-Psalm 87:7
-1 Cor 15:58
-Col 3:23-24
-Prov 3:5-6

@@ -1,9 +1,14 @@
 ---
 title: For Pull Request/Code Submission
+description: Meditations for when submitting code for review.
 tags:
   - submitting code
   - patience
   - creation
+verses:
+  - Phil 4:6-7
+  - Psalm 20:6-9
+  - Psalm 121
 ---
 
 # For Pull Request/Code Submission
@@ -36,9 +41,3 @@ I am loved.
 May I lay down my pride and insecurity as I press this submit button and trust that you have my future in your hands.
 
 Amen.
-
-## Verses to Consider
-
-Phil 4:6-7
-Psalm 20:6-9
-Psalm 121

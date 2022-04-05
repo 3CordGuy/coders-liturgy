@@ -1,9 +1,15 @@
 ---
 title: For Solving Problems / Fixing Bugs
+description: A prayer to redirect hearts when things are broken and need fixing.
 tags:
   - bugs
   - problems
   - renewal
+
+verses:
+  - Psalm 139:23-24
+  - 1 Cor 13:9-12
+  - Phil 4:19
 ---
 
 # For Solving Problems / Fixing Bugs
@@ -33,9 +39,3 @@ Thank you for supplying all that I have and will need.
 I place these efforts in your mighty hands.
 
 Amen
-
-## Verses to Consider
-
-Psalm 139:23-24
-1 Corinthians 13:9-12
-Philippians 4:19

@@ -1,9 +1,14 @@
 ---
 title: For Moments of Frustration
+description: Trouble comes. Where should we direct our frustration and impatience.
 tags:
   - struggle
   - discontentment
   - frustration
+verses:
+  - Phil 2:14-15
+  - John 16:33
+  - James 1:2-4
 ---
 
 # For Moments of Frustration
@@ -34,9 +39,3 @@ Remind me that I am refined through all trials — sanctified and stronger.
 Holy Spirit fill me and grow me to that end.
 
 Amen.
-
-## Verses to Consider
-
-Phil 2:14-15
-John 16:33
-James 1:2-4

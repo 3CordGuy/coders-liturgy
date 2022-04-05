@@ -1,8 +1,13 @@
 ---
 title: For Reviewing Code/Pull Requests
+description: Seek a fresh perspective when reviewing someone else's code.
 tags:
   - reviewing code
   - interaction with others
+verses:
+  - Phil 2:3-4
+  - Psalm 19:14
+  - Col 3:23
 ---
 
 # For Reviewing Code/Pull Requests
@@ -33,9 +38,3 @@ Lord, I aspire to serve others as if I were serving you. Please give me grace wh
 In Jesus Name,
 
 Amen
-
-## Verses to Consider
-
-Phil 2:3-4
-Psalm 19:14
-Col 3:23
