@@ -14,7 +14,7 @@ Heavenly Father,
 
 Thank you for the chance to help others as you have reached out to help me.
 
-Forgive me for too often considering this a burden or distraction from what I could otherwise be accomplishing.
+Forgive me for too often considering this a burden or distraction from what I could otherwise be accomplishing.<br/>
 I want to take this moment to remember that this small act of reviewing code is an opportunity to love my neighbor.
 
 Holy Spirit, I ask for careful, attentive discipline and grace in this task.
@@ -22,9 +22,9 @@ Holy Spirit, I ask for careful, attentive discipline and grace in this task.
 Keep me far from any prideful or arrogant thought in this process.
 Let me hold firmly in mind, that I may soon be on the other end of this exchange.
 
-As such, Lord grant that I may offer understanding.
-That I may communicate effectively in a humble manner.
-That I may not shy away from offering constructive feedback.
+As such, Lord grant that I may offer understanding.<br/>
+That I may communicate effectively in a humble manner.<br/>
+That I may not shy away from offering constructive feedback.<br/>
 That I might have a heart of humility to learn from others in this process, and that my words may be received with good intent.
 
 Please give me wisdom to know when verbal communication is necessary, if written words may fail.

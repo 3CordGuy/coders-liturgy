@@ -16,18 +16,18 @@ Dear God,
 
 I praise you for your generosity. You are good.
 
-You breathe life.
-You bring order from disorder.
+You breathe life.<br/>
+You bring order from disorder.<br/>
 You promise to restore all things.
 
 Believing this, I am humbled by the privilege to image you in this way.
 
-As I endeavor to fix that which is broken, Merciful God, forgive me for any selfishness or frustration I might harbor inwardly as I approach this task.
+As I endeavor to fix that which is broken, Merciful God, forgive me for any selfishness or frustration I might harbor inwardly as I approach this task.<br/>
 Let any impurity of heart be cleansed at the cross that you endured on my behalf.
 
-Soften me with gratitude for those who came before me.
+Soften me with gratitude for those who came before me.<br/>
 May I trust they were putting forth their best efforts in those moments past.
-I am of no higher position.
+I am of no higher position.<br/>
 May I remember that even my best in this moment is but a poor reflection of your perfection in your creation and your ability to make new.
 
 By your Spirit, grant that I may have clear vision, knowledge and understanding, a calm mind, and a heart that is humble for this work.

@@ -13,7 +13,7 @@ verses:
 
 O God of Great Patience and Mercy,
 
-I thank you for your grace.
+I thank you for your grace.<br/>
 It is a mercy all it's own, that trouble is not altogether more common.
 
 But right now, I struggle, Lord.
@@ -23,14 +23,14 @@ I confess my discontent and frustration over it.
 
 Forgive me for a grumbling heart.
 
-I presume these desires to be of good intent,
+I presume these desires to be of good intent,<br/>
 but I admit I don't know what is best for all situations
 and my feelings may betray me.
 
-Therefore grant wisdom so I may rightly engage my thoughts and actions.
+Therefore grant wisdom so I may rightly engage my thoughts and actions.<br/>
 Help me to guard my heart from bitterness and anger.
 
-In this struggle, may I sense the peace that transcends understanding.
+In this struggle, may I sense the peace that transcends understanding.<br/>
 Help me know the love of Christ in this moment — a greater strife he endured on my behalf.
 Remind me that I am refined through all trials — sanctified and stronger.
 

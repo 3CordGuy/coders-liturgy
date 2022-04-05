@@ -11,21 +11,21 @@ verses:
   - Prov 3:5-6
 ---
 
-Lord I admit I don't have it right now.
+Lord I admit I don't have it right now.<br/>
 The desire to move, to work this out.
 
 My body would rather rest. My mind would sooner stray from this task.
 
-As I reflect on this, I think of how my heart is prone to wander from you.
-I confess I would sometimes rather not put in the effort,
+As I reflect on this, I think of how my heart is prone to wander from you.<br/>
+I confess I would sometimes rather not put in the effort,<br/>
 but simply take the inheritance and run.
 
 But you are gracious and merciful. You welcome me like a patient, loving Father.
 
 By this same grace and mercy, I humbly ask you to remind me that:
 
-My work is ultimately for you — not people.
-My identity is in Jesus — not the work of my hands.
+My work is ultimately for you — not people.<br/>
+My identity is in Jesus — not the work of my hands.<br/>
 You make straight my path.
 
 Lord be my motivation and turn my perspective on this task.
