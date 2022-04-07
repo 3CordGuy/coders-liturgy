@@ -39,7 +39,7 @@
 	<title>Coder's Liturgy | Prayers</title>
 </svelte:head>
 
-<div class="px-4 sm:px-6 lg:px-8">
+<div class="">
 	<PageHeading text="Prayers" />
 	<div class="mt-8 rounded py-4 px-8">
 		<div>

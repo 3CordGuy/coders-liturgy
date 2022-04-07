@@ -15,10 +15,10 @@
 
 <div class="flex justify-center px-4 sm:px-6 lg:px-8">
 	<article class="prose lg:prose-lg prose-slate dark:prose-invert">
-		<div class="w-full lg:w-2/3 xl:w-1/2 flex flex-col">
+		<div class="w-full flex flex-col">
 			<PrayerHeading text={title} id="when-lacking-motivation" />
 
-			<div class="pl-8 mb-8">
+			<div class="mb-8">
 				<slot />
 			</div>
 
