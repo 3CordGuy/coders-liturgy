@@ -4,6 +4,12 @@
 	import { slide } from 'svelte/transition';
 
 	let isDarkEnabled = true;
+	let isMobileMenuOpen = false;
+
+	const toggleMobileMenu = () => {
+		console.log('toggling mobile...	');
+		isMobileMenuOpen = !isMobileMenuOpen;
+	};
 
 	const setDarkMode = (isDark) => {
 		if (!browser) return;
@@ -27,14 +33,10 @@
 	});
 </script>
 
-<nav
-	class="relative flex items-center justify-between sm:h-10 lg:justify-start"
-	aria-label="Global"
->
-	<div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
+<nav class="relative flex items-center justify-between sm:h-10" aria-label="Global">
+	<div class="flex items-center flex-grow">
 		<div class="flex items-center justify-between w-full md:w-auto">
 			<a href="/">
-				<span class="sr-only">Workflow</span>
 				<svg
 					class="h-10 text-yellow-400"
 					width="100%"
@@ -53,11 +55,12 @@
 					</g>
 				</svg>
 			</a>
-			<div class="-mr-2 flex items-center md:hidden">
+			<div class="flex items-center md:hidden">
 				<button
+					on:click={toggleMobileMenu}
 					type="button"
-					class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500"
-					aria-expanded="false"
+					class="rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100"
+					aria-expanded={isMobileMenuOpen}
 				>
 					<span class="sr-only">Open main menu</span>
 					<!-- Heroicon name: outline/menu -->
@@ -80,7 +83,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="flex flex-shrink justify-between">
+	<div class="flex sm:flex-shrink justify-between">
 		<div class="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
 			<a href="/prayers" class="font-medium text-gray-500 hover:text-yellow-400">Prayers</a>
 
@@ -90,7 +93,7 @@
 		<button
 			on:click={() => setDarkMode(!isDarkEnabled)}
 			type="button"
-			class=" rounded-full ml-4 text-gray-400 hover:text-gray-500 focus:outline-none  focus:ring-yellow-400"
+			class="rounded-full ml-4 text-gray-400 hover:text-gray-500 focus:outline-none  focus:ring-yellow-400"
 		>
 			<span class="sr-only">Toggle Dark</span>
 			{#if !isDarkEnabled}
@@ -128,4 +131,35 @@
 			{/if}
 		</button>
 	</div>
+
+	{#if isMobileMenuOpen}
+		<div
+			transition:slide={{
+				delay: 200,
+				duration: 200
+			}}
+			class="md:hidden absolute top-0 left-0 bg-white w-full h-24"
+			id="mobile-menu"
+		>
+			<div class="pt-2 pb-3 space-y-1">
+				<!-- Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-800" -->
+				<a
+					on:click={() => (isMobileMenuOpen = !isMobileMenuOpen)}
+					href="/prayers"
+					class="border-yellow-400 text-slate-600 hover:border-rose-600 hover:text-gray-800 block pl-3 pr-4 py-2 border-l-4 text-base font-medium"
+					aria-current="page"
+				>
+					Prayers
+				</a>
+
+				<a
+					on:click={() => (isMobileMenuOpen = !isMobileMenuOpen)}
+					href="/about"
+					class="border-yellow-400 text-slate-600 hover:border-rose-600 hover:text-gray-800 block pl-3 pr-4 py-2 border-l-4 text-base font-medium"
+				>
+					About
+				</a>
+			</div>
+		</div>
+	{/if}
 </nav>
