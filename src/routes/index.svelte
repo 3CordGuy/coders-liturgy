@@ -2,8 +2,8 @@
 	import IconBar from '../components/icon-bar.svelte';
 </script>
 
-<div class="h-full flex flex-col justify-between">
-	<div class="px-4 sm:px-6 lg:px-8">
+<div class="flex flex-col justify-between">
+	<div class="flex-grow flex-shrink-0 px-4 sm:px-6 lg:px-8">
 		<main class="mt-10 mx-auto max-w-7xl sm:mt-12 md:mt-16 lg:mt-12 xl:mt-16">
 			<div class="sm:text-center lg:text-left">
 				<h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
@@ -29,6 +29,6 @@
 			</div>
 		</main>
 	</div>
-
+	<div class="flex-grow">&nbsp;</div>
 	<IconBar />
 </div>
