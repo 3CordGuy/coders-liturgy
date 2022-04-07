@@ -17,7 +17,7 @@
 		<div class="w-full lg:w-2/3 xl:w-1/2 flex flex-col">
 			<PrayerHeading text={title} id="when-lacking-motivation" />
 
-			<div class="border-l-4 border-sky-400 pl-8 mb-8">
+			<div class="pl-8 mb-8">
 				<slot />
 			</div>
 
@@ -29,7 +29,7 @@
 
 			<div class="mb-8 space-x-2">
 				{#each tags as tag}
-					<span class="rounded bg-gray-300 px-2 py-1 text-xs">{tag}</span>
+					<span class="rounded bg-gray-300 dark:bg-slate-800 px-2 py-1 text-xs">{tag}</span>
 				{/each}
 			</div>
 		</div>
