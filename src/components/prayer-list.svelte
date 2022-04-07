@@ -1,6 +1,7 @@
 <script>
 	export let items = [];
 	import { fade } from 'svelte/transition';
+	import Tag from './tag.svelte';
 </script>
 
 <div class="flow-root ">
@@ -24,9 +25,9 @@
 						{item.meta.description}
 					</p>
 					{#if item.meta.tags}
-						<p>
+						<p class="space-x-2">
 							{#each item.meta.tags as tag}
-								<span class="mr-2 text-xs text-gray-600">{tag}</span>
+								<Tag text={tag} />
 							{/each}
 						</p>
 					{/if}
