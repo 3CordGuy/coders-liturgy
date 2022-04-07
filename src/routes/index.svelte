@@ -29,6 +29,6 @@
 			</div>
 		</main>
 	</div>
-	<div class="flex-grow">&nbsp;</div>
+	<div class="flex-grow h-24">&nbsp;</div>
 	<IconBar />
 </div>
