@@ -1,14 +1,10 @@
 <script>
 </script>
 
-<div class="relative bg-slate-800 overflow-hidden">
+<div class="relative bg-white dark:bg-slate-900 overflow-hidden">
 	<div class="max-w-7xl mx-auto">
-		<div class="relative z-10 pb-8 sm:pb-8 md:pb-12 lg:max-w-2xl lg:w-full lg:pb-12 xl:pb-24">
-			<div>
-				<div class="relative pt-6 px-4 sm:px-6 lg:px-8">
-					<slot name="nav" />
-				</div>
-			</div>
+		<div class="relative pt-6 px-4 sm:px-6 lg:px-8">
+			<slot name="nav" />
 		</div>
 	</div>
 	<div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">

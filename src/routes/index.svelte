@@ -23,7 +23,7 @@
 						class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base
                         font-medium rounded-md text-slate-800 bg-yellow-400 hover:bg-yellow-500 md:py-4 md:text-lg md:px-10"
 					>
-						Begin
+						Let's Pray
 					</a>
 				</div>
 			</div>
