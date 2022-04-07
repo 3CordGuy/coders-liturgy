@@ -41,7 +41,7 @@
 
 <div class="px-4 sm:px-6 lg:px-8">
 	<PageHeading text="Prayers" />
-	<div class="mt-8 rounded py-4 px-8 w-1/2">
+	<div class="mt-8 rounded py-4 px-8">
 		<div>
 			<input
 				class="bg-gray-100 rounded px-2 py-2 outline-none"
