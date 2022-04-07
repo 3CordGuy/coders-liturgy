@@ -32,8 +32,6 @@
 		return prayers;
 	};
 
-	console.log('Prayer data', prayers);
-
 	$: list = getList(filter);
 </script>
 
@@ -46,7 +44,7 @@
 	<div class="mt-8 rounded py-4 px-8 w-1/2">
 		<div>
 			<input
-				class="rounded px-2 py-2 outline-none"
+				class="bg-gray-100 rounded px-2 py-2 outline-none"
 				placeholder="Filter Prayers"
 				type="text"
 				bind:value={filter}
