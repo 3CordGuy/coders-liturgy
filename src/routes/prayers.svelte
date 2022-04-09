@@ -39,21 +39,19 @@
 	<title>Coder's Liturgy | Prayers</title>
 </svelte:head>
 
-<div class="">
+<div class="mt-4 rounded">
 	<PageHeading text="Prayers" />
-	<div class="mt-8 rounded py-4 px-8">
-		<div>
-			<input
-				class="bg-gray-100 rounded px-2 py-2 outline-none"
-				placeholder="Filter Prayers"
-				type="text"
-				bind:value={filter}
-			/>
-			{#if filter}
-				<button class="text-rose-600 ml-2 px-2" on:click={() => (filter = '')}>Clear Filter</button>
-			{/if}
-		</div>
-
-		<PrayerList items={list} />
+	<div>
+		<input
+			class="bg-gray-100 rounded px-2 py-2 outline-none"
+			placeholder="Filter Prayers"
+			type="text"
+			bind:value={filter}
+		/>
+		{#if filter}
+			<button class="text-rose-600 ml-2 px-2" on:click={() => (filter = '')}>Clear Filter</button>
+		{/if}
 	</div>
+
+	<PrayerList items={list} />
 </div>

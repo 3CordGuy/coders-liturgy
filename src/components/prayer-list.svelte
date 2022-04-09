@@ -9,9 +9,9 @@
 		{#each items as item}
 			<li transition:fade={{ delay: 150, duration: 200 }} class="py-5">
 				<div class="relative focus-within:ring-2 focus-within:ring-yellow-500">
-					<h3 class="text-sm font-semibold text-yellow-600">
+					<h3 class="text-sm font-semibold text-slate-500">
 						{#if item.path}
-							<a href={item.path} class="hover:underline focus:outline-none">
+							<a href={item.path} class="text-xl hover:underline  focus:outline-none">
 								<!-- Extend touch target to entire panel -->
 								<span class="absolute inset-0" aria-hidden="true" />
 								{item.meta.title}

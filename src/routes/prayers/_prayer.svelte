@@ -13,7 +13,7 @@
 	<title>Coder's Liturgy | {title}</title>
 </svelte:head>
 
-<div class="flex justify-center px-4 sm:px-6 lg:px-8">
+<div class="flex justify-center px-4 sm:px-4 lg:px-8">
 	<article class="prose lg:prose-lg prose-slate dark:prose-invert">
 		<div class="w-full flex flex-col">
 			<PrayerHeading text={title} id="when-lacking-motivation" />

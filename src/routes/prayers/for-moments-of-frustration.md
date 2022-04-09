@@ -1,6 +1,6 @@
 ---
 title: For Moments of Frustration
-description: Trouble comes. Where should we direct our frustration and impatience.
+description: Trouble comes. Where should we direct our frustration and impatience?
 tags:
   - struggle
   - discontentment
