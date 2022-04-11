@@ -1,3 +1,7 @@
+<script>
+	import Gravatar from '../components/gravatar.svelte';
+</script>
+
 <svelte:head>
 	<title>Coder's Liturgy | About</title>
 </svelte:head>
@@ -8,15 +12,15 @@
 		Software Development is not easy. If we believe that the power to do this alone is &quot;within
 		us,&quot; we deceive ourselves. We need others. We need God&#39;s hand guiding us.
 	</p>
-	<p>
-		&quot;If any of you lacks wisdom, let him ask God, who gives generously to all without reproach,
-		and it will be given him” (James 1:5).
-	</p>
+	<blockquote class="border-l-4 pl-12 text-lg">
+		"If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and
+		it will be given him” <cite class="text-sm">(James 1:5)</cite>.
+	</blockquote>
 	<p>
 		Much work is good at best, and morally neutral on average. Some is born of proper motives and
 		yet other works get created with great pride or even laziness. Our motives and heart behind our
-		work is where the difference lay in most circumstances. This website aims to provide some simple
-		prayers as a means of heart redirecting, aligning our thoughts to God&#39;s word and what is
+		work is where the difference is in most circumstances. This website aims to provide some simple
+		prayers as a means of heart redirecting, aligning our thoughts towards God's word and what is
 		true at the end of hitting commit and submit on our code.
 	</p>
 	<p>
@@ -29,5 +33,5 @@
 		It&#39;s a bit of a scary thing to bear your heart. But I believe I&#39;m not alone in this. I
 		felt compelled to make this public. Maybe it will help you, reader.
 	</p>
-	<p>— Josh</p>
+	<Gravatar />
 </section>
