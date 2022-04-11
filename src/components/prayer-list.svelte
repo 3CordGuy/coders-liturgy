@@ -7,7 +7,7 @@
 <div class="flow-root ">
 	<ul class="my-5 divide-y divide-1 divide-slate-300">
 		{#each items as item}
-			<li transition:fade={{ delay: 150, duration: 200 }} class="py-5">
+			<li class="py-5">
 				<div class="relative focus-within:ring-2 focus-within:ring-yellow-500">
 					<h3 class="text-sm font-semibold text-slate-500">
 						{#if item.path}

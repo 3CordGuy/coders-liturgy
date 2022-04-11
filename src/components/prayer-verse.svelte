@@ -2,9 +2,7 @@
 	import { onMount } from 'svelte';
 
 	export let passage = '';
-	export let bgColor = 'indigo';
-	export let textColor = 'slate-400';
-	export let width = 'w-1/3';
+	export let width = 'w-full';
 
 	let passageHtml;
 
@@ -28,14 +26,19 @@
 
 <style>
 	.verse :global(.verse-num) {
-		@pply text-gray-800;
+		@pply text-gray-600;
 	}
 	.verse :global(h2) {
 		font-size: 1.25em;
 		font-weight: 800;
 		@apply text-yellow-400;
 	}
+	.dark .verse :global(h2) {
+		font-size: 1.25em;
+		font-weight: 800;
+		@apply text-yellow-400;
+	}
 	.verse :global(h2 .mp3link) {
-		@apply text-yellow-800;
+		@apply text-yellow-600;
 	}
 </style>
