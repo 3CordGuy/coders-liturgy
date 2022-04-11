@@ -40,7 +40,7 @@
 </svelte:head>
 
 <div class="mt-4 rounded">
-	<PageHeading text="Prayers" />
+	<PageHeading text="Prayers" hasBrackets={false} />
 	<div>
 		<input
 			class="bg-gray-100 rounded px-2 py-2 outline-none"
