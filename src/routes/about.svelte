@@ -6,7 +6,7 @@
 	<title>Coder's Liturgy | About</title>
 </svelte:head>
 
-<section class="prose lg:prose-lg prose-slate dark:prose-invert">
+<section class="px-4 prose lg:prose-lg prose-slate dark:prose-invert">
 	<h1 class="text-rose-600" id="about-page">About Coder's Liturgy</h1>
 	<p>
 		Software Development is not easy. If we believe that the power to do this alone is &quot;within

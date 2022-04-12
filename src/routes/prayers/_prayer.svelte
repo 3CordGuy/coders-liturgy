@@ -29,8 +29,9 @@
 					{/each}
 				</div>
 			</article>
-			<aside class="md:basis-1/4 shrink-0">
+			<aside class="md:basis-1/4 shrink-0 flex grow">
 				<VerseBlock>
+					<h2 class="text-slate-500 dark:text-slate-300">Verses To Consider</h2>
 					<div class="sticky top-0">
 						{#each verses as verse}
 							<Verse passage={verse} />
