@@ -7,7 +7,7 @@ tags:
 description: We all feel weak or like impostors at times.
 verses:
   - 2 Cor 9:8
-  - 2 Cor 12:9-10
+  - 1 Sam 7:12
   - Micah 6:8
   - Psalm 28:7
 ---
@@ -19,7 +19,7 @@ Holy is your name. May your kingdom come on earth as it is in heaven.
 You provide in this day, all that I need.
 
 I confess, in this moment, I feel weak. I feel inadequate.
-I admit I am tempted with a sense of insecurity when comparing myself others.
+I admit I am tempted to compare myself to others.
 
 As I remember that you are the ultimate measure, please let me rest in who you have made me to be and where you have me in this moment.
 Grant that I may remember fully where you have brought me, and how you have provided, graciously.
