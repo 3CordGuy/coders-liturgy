@@ -1,7 +1,7 @@
 <script>
 	import { browser } from '$app/env';
 	import { onMount } from 'svelte';
-	import { slide } from 'svelte/transition';
+	import { slide, fade } from 'svelte/transition';
 
 	let isDarkEnabled = true;
 	let isMobileMenuOpen = false;
@@ -134,9 +134,14 @@
 		</div>
 
 		{#if isMobileMenuOpen}
+			<!--OVERLAY-->
 			<div
+				transition:fade={{
+					delay: 200,
+					duration: 200
+				}}
 				on:click={() => (isMobileMenuOpen = !isMobileMenuOpen)}
-				class="min-h-screen h-full w-full z-10 absolute top-0 left-0"
+				class="z-10 bg-slate-400 opacity-50 min-h-screen h-full w-full z-10 absolute top-0 left-0"
 			/>
 			<div
 				transition:slide={{

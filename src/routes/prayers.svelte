@@ -39,7 +39,7 @@
 	<title>Coder's Liturgy | Prayers</title>
 </svelte:head>
 
-<div class="mt-4 rounded">
+<div class="px-4 mt-4 rounded">
 	<PageHeading text="Prayers" hasBrackets={false} />
 	<div>
 		<input

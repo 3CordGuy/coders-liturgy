@@ -12,7 +12,7 @@
 		Software Development is not easy. If we believe that the power to do this alone is &quot;within
 		us,&quot; we deceive ourselves. We need others. We need God&#39;s hand guiding us.
 	</p>
-	<blockquote class="border-l-4 pl-12 text-lg">
+	<blockquote class="border-l-4 pl-4 md:pl-12 text-lg">
 		"If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and
 		it will be given him” <cite class="text-sm">(James 1:5)</cite>.
 	</blockquote>
@@ -30,7 +30,7 @@
 		a God-breathed scripture.
 	</p>
 	<p>
-		It&#39;s a bit of a scary thing to bear your heart. But I believe I&#39;m not alone in this. I
+		It&#39;s a bit of a scary thing to bare your heart. But I believe I&#39;m not alone in this. I
 		felt compelled to make this public. Maybe it will help you, reader.
 	</p>
 	<Gravatar />
