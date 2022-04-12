@@ -12,7 +12,7 @@ verses:
 ---
 
 God, as I prepare this submission of code,<br/>
-I thank You for the skills and knowledge and opportunity to do this work.
+I thank you for the skills and knowledge and opportunity to do this work.
 
 As I might foolishly wish to rush through this process, may I be reminded of your order of creation.
 That you had a process to it all.

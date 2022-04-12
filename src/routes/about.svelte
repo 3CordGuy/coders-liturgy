@@ -25,9 +25,9 @@
 	</p>
 	<p>
 		Truthfully, I built this for myself. To assuage the fears, to subdue the grumbling, and to point
-		my heart in a better direction when its muscles of selfishness and pride get flexed, these words
-		are reminders written for myself. They are joined with what I believe are true words from a
-		God-breathed scripture.
+		my heart in a better direction. When its muscles of selfishness and pride get flexed, these
+		words are reminders written for myself. They are joined with what I believe are true words from
+		a God-breathed scripture.
 	</p>
 	<p>
 		It&#39;s a bit of a scary thing to bear your heart. But I believe I&#39;m not alone in this. I
