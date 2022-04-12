@@ -6,7 +6,7 @@
 	<title>Coder's Liturgy | About</title>
 </svelte:head>
 
-<section class="px-4 prose lg:prose-lg prose-slate dark:prose-invert">
+<article class="px-4 prose lg:prose-lg prose-slate dark:prose-invert">
 	<h1 class="text-rose-600" id="about-page">About Coder's Liturgy</h1>
 	<p>
 		Software Development is not easy. If we believe that the power to do this alone is &quot;within
@@ -34,4 +34,4 @@
 		felt compelled to make this public. Maybe it will help you, reader.
 	</p>
 	<Gravatar />
-</section>
+</article>

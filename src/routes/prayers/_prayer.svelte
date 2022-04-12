@@ -13,7 +13,7 @@
 	<title>Coder's Liturgy | {title}</title>
 </svelte:head>
 
-<div class="flex justify-center px-4 sm:px-4 lg:px-8">
+<div class="flex justify-center px-4 md:px-8 pb-8">
 	<main class="">
 		<div class="w-full flex flex-col md:flex-row gap-4">
 			<article class="basis-3/4 grow-0 prose lg:prose-lg prose-slate dark:prose-invert">
@@ -32,7 +32,7 @@
 			<aside class="md:basis-1/4 shrink-0 flex grow">
 				<VerseBlock>
 					<h2 class="text-slate-500 dark:text-slate-300">Verses To Consider</h2>
-					<div class="sticky top-0">
+					<div class="">
 						{#each verses as verse}
 							<Verse passage={verse} />
 						{/each}
