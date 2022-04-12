@@ -33,7 +33,7 @@
 	});
 </script>
 
-<nav class="" aria-label="Global">
+<nav class="px-4 sticky z-10 top-0 bg-white dark:bg-slate-900 border-slate-200" aria-label="Global">
 	<div class="flex items-center justify-between py-4">
 		<div class="flex items-center flex-grow">
 			<div class="flex items-center justify-between w-full md:w-auto">
