@@ -1,5 +1,6 @@
 ---
 title: For Fixing Bugs
+date: 2022-04-13
 description: A prayer to redirect hearts when things are broken and need fixing.
 tags:
   - bugs

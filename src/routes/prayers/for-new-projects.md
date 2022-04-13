@@ -1,5 +1,6 @@
 ---
 title: For New Projects / Code
+date: 2022-04-13
 description: For the creation of a glorious new project or codebase.
 tags:
   - new code

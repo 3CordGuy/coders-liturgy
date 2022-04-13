@@ -43,7 +43,7 @@
 				<a href="/">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
-						class="h-10 w-10 text-yellow-400"
+						class="h-10 w-10 text-yellow-400 hover:text-yellow-500"
 						viewBox="0 0 20 20"
 						fill="currentColor"
 					>

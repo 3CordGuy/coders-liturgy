@@ -1,5 +1,6 @@
 <script>
 	import Github from '../icons/github.svelte';
+	import Rss from '../icons/rss-icon.svelte';
 	import Twitter from '../icons/twitter.svelte';
 </script>
 
@@ -18,10 +19,11 @@
 				permission. All rights reserved.
 			</div>
 			<div class="flex row items-center">
+				<a class="text-sm" href="https://twitter.com/3cordguy"> <Twitter classes="mr-2" /></a>
 				<a class="text-sm" href="https://github.com/3cordguy/coders-liturgy"
 					><Github classes="mr-2" /></a
 				>
-				<a class="text-sm" href="https://twitter.com/3cordguy"> <Twitter classes="mr-2" /></a>
+				<a class="text-sm" href="https://codersliturgy.com/feed/rss.xml"><Rss classes="mr-2" /></a>
 			</div>
 		</div>
 	</div>

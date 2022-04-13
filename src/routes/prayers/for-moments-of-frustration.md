@@ -1,5 +1,6 @@
 ---
 title: For Moments of Frustration
+date: 2022-04-13
 description: Trouble comes. Where should we direct our frustration and impatience?
 icons:
   - { name: 'rain', color: 'sky-400' }

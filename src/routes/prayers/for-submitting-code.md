@@ -1,5 +1,6 @@
 ---
 title: For Pull Request / Code Submission
+date: 2022-04-13
 description: Meditations for when submitting code for review.
 icons:
   - { name: 'pr', color: 'purple-400' }

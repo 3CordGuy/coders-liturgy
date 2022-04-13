@@ -1,5 +1,6 @@
 ---
 title: When Lacking Motivation
+date: 2022-04-13
 description: A prayer for when you just don't feel like it.
 icons:
   - { name: 'heart', color: 'pink-400' }
