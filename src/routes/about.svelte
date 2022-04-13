@@ -6,7 +6,7 @@
 	<title>Coder's Liturgy | About</title>
 </svelte:head>
 
-<article class="px-4 prose lg:prose-lg prose-slate dark:prose-invert">
+<article class="px-4 prose lg:prose-lg prose-slate dark:prose-invert mb-12">
 	<h1 class="text-rose-600" id="about-page">About Coder's Liturgy</h1>
 	<p>
 		Software Development is not easy. If we believe that the power to do this alone is &quot;within
@@ -31,7 +31,8 @@
 	</p>
 	<p>
 		It&#39;s a bit of a scary thing to bare your heart—and to do it online. But I believe I&#39;m
-		not alone in this. I felt compelled to make this public. Maybe it will help you, reader.
+		not alone in this. I felt compelled to make this public. Maybe it will help you as well, my
+		friend.
 	</p>
 	<Gravatar />
 </article>
