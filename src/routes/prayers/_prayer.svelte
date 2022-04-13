@@ -14,31 +14,29 @@
 </svelte:head>
 
 <div class="flex justify-center px-4 md:px-8 pb-8">
-	<main class="">
-		<div class="w-full flex flex-col md:flex-row gap-4">
-			<article class="basis-3/4 grow-0 prose lg:prose-lg prose-slate dark:prose-invert">
-				<PageHeading hasBrackets={false} text={title} id="when-lacking-motivation" />
+	<div class="w-full grid grid-cols-1 gap-4 items-start md:grid-cols-3">
+		<article class="md:col-span-2 grow-0 prose lg:prose-lg prose-slate dark:prose-invert">
+			<PageHeading hasBrackets={false} text={title} id="when-lacking-motivation" />
 
-				<div class="mb-8">
-					<slot />
-				</div>
+			<div class="mb-8">
+				<slot />
+			</div>
 
-				<div class="mb-8 space-x-2">
-					{#each tags as tag}
-						<Tag text={tag} />
+			<div class="mb-8 space-x-2">
+				{#each tags as tag}
+					<Tag text={tag} />
+				{/each}
+			</div>
+		</article>
+		<aside class="md:col-span-1 shrink-0 flex grow">
+			<VerseBlock>
+				<h2 class="text-slate-500 dark:text-slate-300">Verses To Consider</h2>
+				<div class="">
+					{#each verses as verse}
+						<Verse passage={verse} />
 					{/each}
 				</div>
-			</article>
-			<aside class="md:basis-1/4 shrink-0 flex grow">
-				<VerseBlock>
-					<h2 class="text-slate-500 dark:text-slate-300">Verses To Consider</h2>
-					<div class="">
-						{#each verses as verse}
-							<Verse passage={verse} />
-						{/each}
-					</div>
-				</VerseBlock>
-			</aside>
-		</div>
-	</main>
+			</VerseBlock>
+		</aside>
+	</div>
 </div>

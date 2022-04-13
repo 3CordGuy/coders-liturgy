@@ -12,8 +12,8 @@
 	<header class="flex-shrink-0 flex-2 justify-between">
 		<Hero />
 	</header>
-	<section class="flex-1 mx-auto flex-grow bg-white dark:bg-slate-900">
+	<main class="mx-auto bg-white dark:bg-slate-900">
 		<slot />
-	</section>
+	</main>
 	<Footer />
 </div>
