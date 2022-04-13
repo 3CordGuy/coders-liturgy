@@ -1,5 +1,5 @@
 ---
-title: For Reviewing Code/Pull Requests
+title: For Reviewing Code / Pull Requests
 description: Seek a fresh perspective when reviewing someone else's code.
 tags:
   - reviewing code

@@ -11,4 +11,4 @@
 	});
 </script>
 
-<svelte:component this={icon} {classes} />
+<svelte:component this={icon} classes={`mt-0 ${classes}`} />

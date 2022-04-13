@@ -26,12 +26,12 @@
 
 <style>
 	.verse :global(.verse-num) {
-		@pply text-gray-600;
+		@pply text-gray-800;
 	}
 	.verse :global(h2) {
 		font-size: 1.25em;
 		font-weight: 800;
-		@apply text-yellow-400;
+		@apply text-gray-500;
 	}
 	.dark .verse :global(h2) {
 		font-size: 1.25em;
