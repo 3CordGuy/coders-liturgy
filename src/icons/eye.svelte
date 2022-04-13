@@ -1,4 +1,5 @@
 <script>
+	/* @vite-ignore */
 	export let classes;
 </script>
 

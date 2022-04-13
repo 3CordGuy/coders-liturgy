@@ -5,6 +5,9 @@ tags:
   - imposter syndrome
   - inadequate feelings
 description: We all feel weak or like impostors at times.
+icons:
+  - { name: 'eye', color: 'indigo-400' }
+  - { name: 'heart', color: 'red-400' }
 verses:
   - 2 Cor 9:8
   - 1 Sam 7:12

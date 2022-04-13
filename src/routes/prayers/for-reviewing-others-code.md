@@ -4,6 +4,8 @@ description: Seek a fresh perspective when reviewing someone else's code.
 tags:
   - reviewing code
   - interaction with others
+icons:
+  - { name: 'approval', color: 'blue-400' }
 verses:
   - Phil 2:3-4
   - Psalm 19:14

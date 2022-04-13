@@ -1,6 +1,8 @@
 ---
 title: For Moments of Frustration
 description: Trouble comes. Where should we direct our frustration and impatience?
+icons:
+  - { name: 'rain', color: 'sky-400' }
 tags:
   - struggle
   - discontentment

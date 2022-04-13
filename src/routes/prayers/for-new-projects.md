@@ -5,6 +5,8 @@ tags:
   - new code
   - new projects
   - creation
+icons:
+  - { name: 'growth', color: 'green-400' }
 verses:
   - Isaiah 40:6-8
   - Isaiah 55:8-11
