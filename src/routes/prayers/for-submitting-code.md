@@ -1,8 +1,9 @@
 ---
-title: For Pull Request/Code Submission
+title: For Pull Request / Code Submission
 description: Meditations for when submitting code for review.
 icons:
   - { name: 'pr', color: 'purple-400' }
+  - { name: 'talk', color: 'blue-400' }
 tags:
   - submitting code
   - patience

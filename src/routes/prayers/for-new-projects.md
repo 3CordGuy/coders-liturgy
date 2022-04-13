@@ -1,5 +1,5 @@
 ---
-title: For New Projects/Code
+title: For New Projects / Code
 description: For the creation of a glorious new project or codebase.
 tags:
   - new code
@@ -7,6 +7,7 @@ tags:
   - creation
 icons:
   - { name: 'growth', color: 'green-400' }
+  - { name: 'heart', color: 'pink-400' }
 verses:
   - Isaiah 40:6-8
   - Isaiah 55:8-11

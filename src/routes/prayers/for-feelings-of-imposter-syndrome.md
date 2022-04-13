@@ -1,10 +1,10 @@
 ---
-title: For When Feeling Imposter Syndrome
+title: For Imposter Syndrome
 tags:
   - comparison
   - imposter syndrome
   - inadequate feelings
-description: We all feel weak or like impostors at times.
+description: We all feel weak and like impostors at times.
 icons:
   - { name: 'eye', color: 'indigo-400' }
   - { name: 'heart', color: 'red-400' }
@@ -27,7 +27,7 @@ I admit I am tempted to compare myself to others.
 As I remember that you are the ultimate measure, please let me rest in who you have made me to be and where you have me in this moment.
 Grant that I may remember fully where you have brought me, and how you have provided, graciously.
 
-Forgive me for the pride of thinking that I could be more impressive in the eyes of others.
+Forgive me for the pride of thinking that I could be ever more impressive in the eyes of others.
 
 Please set my heart and its desires on you.
 Replace my insecurities with the goodness of your truth and love.

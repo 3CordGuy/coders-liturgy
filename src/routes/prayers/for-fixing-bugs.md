@@ -1,11 +1,13 @@
 ---
-title: For Solving Problems / Fixing Bugs
+title: For Fixing Bugs
 description: A prayer to redirect hearts when things are broken and need fixing.
 tags:
   - bugs
   - problems
   - renewal
-
+icons:
+  - { name: 'search', color: 'green-400' }
+  - { name: 'bug', color: 'pink-400' }
 verses:
   - Psalm 139:23-24
   - 1 Cor 13:9-12

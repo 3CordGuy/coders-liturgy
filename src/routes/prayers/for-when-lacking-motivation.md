@@ -1,6 +1,9 @@
 ---
 title: When Lacking Motivation
-description: For when you just don't feel like it.
+description: A prayer for when you just don't feel like it.
+icons:
+  - { name: 'heart', color: 'pink-400' }
+  - { name: 'pray', color: 'blue-400' }
 tags:
   - motivation
   - joy
