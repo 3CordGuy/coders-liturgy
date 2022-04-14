@@ -14,11 +14,12 @@ export const get = async () => {
 		})
 	);
 
-	const sortedByTitle = allPrayers.sort((a, b) => {
-		return b.meta.title - a.meta.title;
+	const sortedPrayers = allPrayers.sort((a, b) => {
+		// return b.meta.title - a.meta.title;
+		return new Date(b.meta.date) - new Date(a.meta.date);
 	});
 
 	return {
-		body: sortedByTitle
+		body: sortedPrayers
 	};
 };
