@@ -10,6 +10,7 @@
 	export let verses;
 	export let icons;
 	export let tags;
+	export let date;
 </script>
 
 <svelte:head>
@@ -40,6 +41,9 @@
 
 			<div class="mb-8 md:pl-16 prose lg:prose-lg prose-slate dark:prose-invert">
 				<slot />
+				<div class="text-xs text-slate-500">
+					Published on: {new Date(date).toLocaleDateString()}
+				</div>
 				<div class="mb-8  space-x-2">
 					{#each tags as tag}
 						<Tag text={tag} />
