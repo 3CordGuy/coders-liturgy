@@ -12,7 +12,7 @@
 	<header class="flex-shrink-0 flex-2 justify-between">
 		<Hero />
 	</header>
-	<main class="mx-auto bg-white dark:bg-slate-900">
+	<main class="mx-auto grow bg-white dark:bg-slate-900">
 		<slot />
 	</main>
 	<Footer />
