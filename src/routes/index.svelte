@@ -2,6 +2,14 @@
 	import IconBar from '../components/icon-bar.svelte';
 </script>
 
+<svelte:head>
+	<title>Coder's Liturgy</title>
+	<meta
+		property="og:title"
+		content="Coder's Liturgy 💻 🙏 | Prayerful heart devotions for Christian Coders"
+	/>
+</svelte:head>
+
 <div class="flex flex-col justify-between">
 	<div class="px-4 flex-grow flex-shrink-0 sm:px-6 lg:px-8">
 		<main class="mt-10 mx-auto max-w-7xl sm:mt-12 md:mt-16 lg:mt-12 xl:mt-16">

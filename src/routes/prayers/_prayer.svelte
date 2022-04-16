@@ -15,6 +15,7 @@
 
 <svelte:head>
 	<title>Coder's Liturgy | {title}</title>
+	<meta property="og:title" content="Coder's Liturgy 💻 🙏 | {title} - {description}" />
 </svelte:head>
 
 <div class="flex justify-center my-12 px-4 md:px-8 pb-8">
