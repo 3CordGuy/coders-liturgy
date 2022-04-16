@@ -4,7 +4,7 @@
 	export let passage = '';
 	export let width = 'w-full';
 
-	let passageHtml;
+	let passageHtml = 'Loading...';
 
 	const getVerse = async (verse) => {
 		let res = await fetch(`/api/verse/${verse.toLowerCase().replace(/ /g, '+')}`);
