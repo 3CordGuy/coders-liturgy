@@ -19,7 +19,7 @@
 	</blockquote>
 	<p>
 		Work is an order of "sub-creation". We image God when we work and create. God created
-		"ex-nihilo" (out of nothing). While coding sometimes feels this way, like creating something
+		"ex-nihilo" (out of nothing). Coding sometimes feels this way, like creating something
 		from nothing. We start with a blank editor, but we stand on the shoulders of those who came
 		before. Those who helped us along our path. We should give thanks for them.
 	</p>
