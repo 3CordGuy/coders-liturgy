@@ -1,6 +1,6 @@
 ---
 title: For Job Interviews
-description: The day of the interview can bring with it many mixed feelings
+description: The day of the interview can bring with it many mixed feelings.
 icons:
   - { name: 'talk', color: 'yellow-400' }
   - { name: 'heart', color: 'red-400' }
@@ -38,6 +38,7 @@ As I prepare my mind and my heart for this upcoming opportunity, Lord, I thank y
 
 I praise you for my past.<br/>
 The history that has made me.<br/>
+The road I have traveled to get here.<br/>
 The people who have helped me.
 
 May I be reminded that this opportunity, regardless of outcome, is a reflection of your goodness and wisdom and order.
