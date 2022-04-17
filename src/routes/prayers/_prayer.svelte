@@ -18,7 +18,7 @@
 	<meta property="og:title" content="Coder's Liturgy 💻 🙏 | {title} - {description}" />
 </svelte:head>
 
-<div class="flex justify-center my-12 px-4 md:px-8 pb-8">
+<div class="flex justify-center my-12 px-4 md:px-8 pb-12">
 	<div class="w-full grid grid-cols-1 gap-8 items-start md:grid-cols-3">
 		<article class="md:col-span-2 grow-0">
 			<div class="flex flex-row space-x-4 mb-12">

@@ -40,7 +40,7 @@
 	<title>Coder's Liturgy | Prayers</title>
 </svelte:head>
 
-<div class="px-4 my-4">
+<div class="px-4 pb-12">
 	<PageHeading text="Prayers" hasBrackets={false} />
 	<SubscribeLink />
 
