@@ -19,32 +19,32 @@ verses:
 
 God,
 
-From the beginning you shown that I am a being made for relationship.
+From the beginning you've shown that I am a being made for relationship.
 
-Fellowship with others and communion with you is at the core of my story and at the center of your heart for us.
+Fellowship with others and communion with you is at the core of my story and at the center of your heart for me.
 
-It was not good for us to be alone.
+It was not good for me to be alone.
 
 So I thank you that I am accompanied in this endeavor.
 
 As I embark to co-labor with another...
 
-Grant that I may seek to serve,
-before having my desires met.
-That I may have a heart of understanding,
-before an eagerness to be understood.
+Grant that I may seek to serve,<br/>
+before having my desires met.<br/>
+That I may have a heart of understanding,<br/>
+before an eagerness to be understood.<br/>
 Let me have eyes to see and ears quick to listen.
 
 Spirit, speak through me, words of encouragement.
 
-When the answers are elusive or challenges arise,
+When the answers are elusive or challenges arise,<br/>
 help us to each offer each other a complementary strength in the gaps where lacking.
 
 Be peace in our midst when there is temptation for frustration,
 be it for the task or each other.
 
-May our knowledge be shared in humility.
-May we sharpen each other.
+May our knowledge be shared in humility.<br/>
+May we sharpen each other.<br/>
 May the resulting code be all the better for our pairing.
 
 Lord, go before us and bless us in unity.
