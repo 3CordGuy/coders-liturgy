@@ -2,7 +2,7 @@
 title: For Pairing with Another
 description: A prayer for pair programming with another.
 icons:
-  - { name: 'discuss', color: 'red-400' }
+  - { name: 'discuss', color: 'blue-400' }
   - { name: 'keyboard', color: 'purple-400' }
 tags:
   - pairing
