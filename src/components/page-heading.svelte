@@ -3,13 +3,14 @@
 	export let id = '';
 	export let classes = '';
 	export let hasBrackets = true;
+	export let subtitle = '';
 </script>
 
 <h1
 	{id}
-	class={`text-2xl tracking-tight font-extrabold text-rose-600 sm:text-5xl md:text-5xl ${classes} ${
-		hasBrackets ? 'lowercase' : ''
-	}`}
+	class={`text-2xl tracking-tight font-extrabold
+	        text-rose-600 sm:text-5xl
+			md:text-5xl ${classes} ${hasBrackets ? 'lowercase' : ''}`}
 >
 	{#if hasBrackets}
 		&lt;{text}/&gt;
@@ -17,3 +18,6 @@
 		{text}
 	{/if}
 </h1>
+{#if subtitle}
+	<h2 class="text-xl text-gray-500 mb-8">{subtitle}</h2>
+{/if}

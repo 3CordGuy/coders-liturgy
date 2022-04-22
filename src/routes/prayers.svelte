@@ -41,7 +41,11 @@
 </svelte:head>
 
 <div class="px-4 pb-12">
-	<PageHeading text="Prayers" hasBrackets={false} />
+	<PageHeading
+		text="Prayers"
+		hasBrackets={false}
+		subtitle="Meditative Scripture and Prayers for Christian Coders"
+	/>
 	<SubscribeLink />
 
 	<div class="relative">
