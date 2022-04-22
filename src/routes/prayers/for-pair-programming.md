@@ -19,11 +19,11 @@ verses:
 
 God,
 
-From the beginning you've shown that I am a being made for relationship.
+From the beginning you've shown that I am made for relationship.
 
 Fellowship with others and communion with you is at the core of my story and at the center of your heart for me.
 
-It was not good for me to be alone.
+It is not good for me to be alone.
 
 So I thank you that I am accompanied in this endeavor.
 

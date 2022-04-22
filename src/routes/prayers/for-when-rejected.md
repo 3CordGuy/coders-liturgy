@@ -31,9 +31,9 @@ Until You come again, I must wait in this state of tension.
 
 How long, O Lord?
 
-But I am reminded, in my sorrowful state, that you are a God acquainted with grief.
+But I am reminded, in my current state, that you are acquainted with grief.
 
-**May I consider this.**
+**May I consider this:**
 
 You bore immeasurable guilt, sorrow, pain, and mental anguish when you walked this soil we stained with sin.<br/>
 To be "God with us," you laid down greatness and experienced great loss and rejection.<br/>
