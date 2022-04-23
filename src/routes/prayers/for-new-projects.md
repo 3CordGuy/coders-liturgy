@@ -3,9 +3,8 @@ title: For New Projects / Code
 date: 2022-04-13
 description: For the creation of a glorious new project or codebase.
 tags:
-  - new code
-  - new projects
-  - creation
+  - code
+  - project
 icons:
   - { name: 'growth', color: 'green-400' }
   - { name: 'heart', color: 'pink-400' }

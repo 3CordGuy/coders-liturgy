@@ -6,9 +6,9 @@ icons:
   - { name: 'pr', color: 'purple-400' }
   - { name: 'talk', color: 'blue-400' }
 tags:
-  - submitting code
+  - pull requests
   - patience
-  - creation
+  - code
 verses:
   - Phil 4:6-7
   - Psalm 20:6-9

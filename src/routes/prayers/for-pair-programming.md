@@ -8,7 +8,7 @@ tags:
   - pairing
   - discussion
   - collaboration
-  - coding
+  - code
 date: 2022-04-16
 verses:
   - James 1:19

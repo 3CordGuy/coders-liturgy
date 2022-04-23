@@ -5,7 +5,8 @@ description: A prayer to redirect hearts when things are broken and need fixing.
 tags:
   - bugs
   - problems
-  - renewal
+  - frustration
+  - code
 icons:
   - { name: 'search', color: 'green-400' }
   - { name: 'bug', color: 'pink-400' }

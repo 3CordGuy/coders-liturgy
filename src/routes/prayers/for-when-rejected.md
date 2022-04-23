@@ -6,11 +6,10 @@ icons:
   - { name: 'talk', color: 'blue-400' }
 tags:
   - rejection
-  - interview
-  - job
-  - doubt
-  - grief
-  - sadness
+  - interviews
+  - new job
+  - self-doubt
+  - struggle
 date: 2022-04-21
 verses:
   - Isaiah 53:3

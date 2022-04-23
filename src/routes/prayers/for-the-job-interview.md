@@ -5,9 +5,8 @@ icons:
   - { name: 'talk', color: 'yellow-400' }
   - { name: 'heart', color: 'red-400' }
 tags:
-  - worry
-  - excitement
-  - preparation
+  - self-doubt
+  - interviews
   - new job
 date: 2022-04-14
 verses:

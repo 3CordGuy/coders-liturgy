@@ -8,6 +8,7 @@ icons:
 tags:
   - motivation
   - joy
+  - struggle
 verses:
   - Psalm 87:7
   - 1 Cor 15:58
