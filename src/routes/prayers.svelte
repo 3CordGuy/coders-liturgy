@@ -2,10 +2,13 @@
 	export const load = async ({ fetch }) => {
 		const prayers = await fetch('/api/prayers.json');
 		const allPrayers = await prayers.json();
+		const tags = await fetch('/api/tags.json');
+		const allTags = await tags.json();
 
 		return {
 			props: {
-				prayers: allPrayers
+				prayers: allPrayers,
+				tags: allTags
 			}
 		};
 	};
@@ -15,7 +18,9 @@
 	import SubscribeLink from '../components/subscribe-link.svelte';
 	import PageHeading from '../components/page-heading.svelte';
 	import PrayerList from '../components/prayer-list.svelte';
+	import TagList from '../components/tag-list.svelte';
 	export let prayers;
+	export let tags;
 
 	let filter = '';
 	const getList = (term) => {
@@ -40,15 +45,15 @@
 	<title>Coder's Liturgy | Prayers</title>
 </svelte:head>
 
-<div class="px-4 pb-12">
+<div class="px-4 pb-12 md:grid grid-cols-12 gap-y-4 gap-x-8">
 	<PageHeading
+		classes="col-span-12"
 		text="Prayers"
 		hasBrackets={false}
 		subtitle="Meditative Scripture and Prayers for Christian Coders"
 	/>
-	<SubscribeLink />
 
-	<div class="relative">
+	<div class="relative col-start-3 col-end-8">
 		<input
 			class="shadow-inner bg-gray-100 w-full rounded px-2 py-2 outline-none"
 			placeholder="Filter Prayers"
@@ -76,5 +81,12 @@
 		{/if}
 	</div>
 
-	<PrayerList items={list} />
+	<div class="col-start-3 col-end-8">
+		<PrayerList items={list} />
+	</div>
+	<div class="mt-4 md:mt-0 col-span-4 col-start-8 row-start-2 row-span-2">
+		<TagList {tags} />
+		<hr class="my-4" />
+		<SubscribeLink />
+	</div>
 </div>

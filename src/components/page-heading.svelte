@@ -6,18 +6,20 @@
 	export let subtitle = '';
 </script>
 
-<h1
-	{id}
-	class={`text-2xl tracking-tight font-extrabold
+<div class="col-start-3 col-span-8">
+	<h1
+		{id}
+		class={`text-2xl tracking-tight font-extrabold
 	        text-rose-600 sm:text-5xl
 			md:text-5xl ${classes} ${hasBrackets ? 'lowercase' : ''}`}
->
-	{#if hasBrackets}
-		&lt;{text}/&gt;
-	{:else}
-		{text}
+	>
+		{#if hasBrackets}
+			&lt;{text}/&gt;
+		{:else}
+			{text}
+		{/if}
+	</h1>
+	{#if subtitle}
+		<h2 class="text-xl text-gray-500 mb-8">{subtitle}</h2>
 	{/if}
-</h1>
-{#if subtitle}
-	<h2 class="text-xl text-gray-500 mb-8">{subtitle}</h2>
-{/if}
+</div>

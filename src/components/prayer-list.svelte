@@ -5,7 +5,7 @@
 </script>
 
 <div class="flow-root ">
-	<ul class="my-4 space-y-4">
+	<ul class="space-y-4">
 		{#each items as item}
 			<li>
 				<div
@@ -13,7 +13,7 @@
 						   focus-within:p-4 focus-within:ring-yellow-500
 						   flex flex-row grow p-4 items-center bg-gray-100 dark:bg-slate-800 rounded
 						   transition ease-in-out delay-150 hover:bg-slate-200 hover:dark:bg-slate-700
-						   hover:rounded duration-300"
+						   hover:rounded hover:shadow-lg duration-300"
 				>
 					<div class="flex flex-row">
 						<div class="mr-4">

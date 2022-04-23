@@ -34,7 +34,10 @@
 					{#if icons}
 						<div class="flex flex-row mb-4">
 							{#each icons as icon}
-								<Icon iconName={icon.name} classes={`w-24 h-24 text-${icon.color}`} />
+								<Icon
+									iconName={icon.name}
+									classes={`w-16 h-16 md:w-24 md:h-24 text-${icon.color}`}
+								/>
 							{/each}
 						</div>
 					{/if}
@@ -46,9 +49,9 @@
 				<div class="text-xs text-slate-500">
 					Published on: {new Date(date).toLocaleDateString()}
 				</div>
-				<div class="mb-8  space-x-2">
+				<div class="mb-8 mt-4 flex">
 					{#each tags as tag}
-						<Tag text={tag} />
+						<Tag text={tag} count={0} />
 					{/each}
 				</div>
 			</div>
