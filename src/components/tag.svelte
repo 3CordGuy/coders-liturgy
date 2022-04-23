@@ -13,9 +13,9 @@
 	<div class="px-2 py-1">{text}</div>
 	{#if count}
 		<div
-			class="flex
-		items-center justify-center rounded-full
-		w-6 bg-slate-300 dark:bg-slate-600 text-slate-500 text-xs"
+			class="flex items-center justify-center rounded-full
+		           w-6 bg-slate-300 dark:bg-slate-600 text-slate-500
+				   dark:text-slate-300 text-xs"
 		>
 			{count}
 		</div>
