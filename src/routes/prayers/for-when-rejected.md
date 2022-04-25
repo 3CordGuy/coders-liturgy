@@ -44,12 +44,12 @@ May I consider this in the aftermath of my own rejection.
 
 Lord, grant that I would take heart in knowing that you are with me the same in my joy as in my struggle.
 
-I thank you and praise you that you are not a god distant from my own realities.<br/>
+I thank you and praise you that you are not distant from my own realities.<br/>
 That you know my pain—is a past, present, and future grace to me.<br/>
 Let me sense this loving grace.
 
 As you work all things for my good,<br/>
-as I love you,<br/>
+as I love you and am called by you,<br/>
 may I trust you more.
 
 Forgive my doubts, help my unbelief.
