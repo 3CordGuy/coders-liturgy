@@ -3,7 +3,7 @@ title: For Imposter Syndrome
 date: 2022-04-13
 tags:
   - comparison
-  - imposter syndrome
+  - impostor syndrome
   - self-doubt
 description: We all feel weak and like impostors at times.
 icons:
