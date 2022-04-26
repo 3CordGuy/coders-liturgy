@@ -9,9 +9,9 @@
 <article class="px-4 prose lg:prose-lg prose-slate dark:prose-invert mb-12">
 	<h1 class="text-rose-600" id="about-page">About Coder's Liturgy</h1>
 	<p>
-		Software Development is not easy. If we believe that the power to do this alone is &quot;within
-		us,&quot; we deceive ourselves. We wouldn't be where we are without help along the way. We need
-		others. We need God&#39;s hand guiding us.
+		Software Development is not easy. If we believe that the power to do this alone is solely
+		&quot;within us,&quot; we deceive ourselves. We wouldn't be where we are without help along the
+		way. We need others. We need God&#39;s hand guiding us.
 	</p>
 	<blockquote class="border-l-4 pl-4 md:pl-12 text-lg">
 		"If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and
@@ -19,9 +19,9 @@
 	</blockquote>
 	<p>
 		Work is an order of "sub-creation". We image God when we work and create. God created
-		"ex-nihilo" (out of nothing). Coding sometimes feels this way, like creating something
-		from nothing. We start with a blank editor, but we stand on the shoulders of those who came
-		before. Those who helped us along our path. We should give thanks for them.
+		"ex-nihilo" (out of nothing). Coding sometimes feels this way, like creating something from
+		nothing. We start with a blank editor, but we stand on the shoulders of those who came before.
+		Those who helped us along our path. We should give thanks for them.
 	</p>
 	<p>
 		Our motives and heart behind our work can make all the difference between good work and just
