@@ -20,7 +20,7 @@
 </svelte:head>
 
 <div class="px-4 pb-12 md:grid grid-cols-1 gap-y-4 gap-x-8 md:grid-cols-12">
-	<article class="col-start-3 col-end-8">
+	<article class="col-start-1 lg:col-start-3 col-end-8">
 		<div class="flex flex-col mb-4">
 			<div>
 				<PageHeading
@@ -53,7 +53,7 @@
 			</div>
 		</div>
 	</article>
-	<aside class="col-span-3 col-start-8 mt-4">
+	<aside class="col-span-5 lg:col-span-3 col-start-8 mt-4">
 		<VerseBlock>
 			<div class="flex flex-row items-center mb-4 pb-2 border-b border-gray-600">
 				<svg

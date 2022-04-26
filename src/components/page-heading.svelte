@@ -6,7 +6,7 @@
 	export let subtitle = '';
 </script>
 
-<div class="col-start-3 col-span-8 mb-4">
+<div class="col-start-1 lg:col-start-3 col-span-8 mb-4">
 	<h1
 		{id}
 		class={`text-2xl tracking-tight font-extrabold

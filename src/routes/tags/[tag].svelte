@@ -43,10 +43,10 @@
 		hasBrackets={false}
 		subtitle="Meditative Scripture and Prayers for Christian Coders"
 	/>
-	<div class="col-start-3 col-end-8">
+	<div class="col-start-1 lg:col-start-3 col-end-8">
 		<PrayerList items={prayers} />
 	</div>
-	<div class="mt-4 md:mt-0 col-span-3 col-start-8 row-start-2 row-span-2">
+	<div class="mt-4 md:mt-0 col-start-8 col-end-12 lg:col-end-11 row-start-2 row-span-2">
 		<TagList {tags} />
 		<hr class="my-4" />
 		<SubscribeLink />
