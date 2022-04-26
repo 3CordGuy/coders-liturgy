@@ -2,12 +2,13 @@
 	export let items = [];
 	import Tag from './tag.svelte';
 	import Icon from './icon.svelte';
+	import { fade } from 'svelte/transition';
 </script>
 
-<div class="flow-root ">
+<div class="flow-root">
 	<ul class="space-y-4">
 		{#each items as item}
-			<li>
+			<li transition:fade={{ delay: 150, duration: 200 }}>
 				<div
 					class="relative focus-within:ring-2
 						   focus-within:p-4 focus-within:ring-yellow-500

@@ -8,7 +8,7 @@
 	<div class="flex flex-row flex-wrap">
 		<a href="/prayers">
 			<div
-				class="flex flex-row justify-around text-xs rounded-full
+				class="flex flex-row justify-around text-xs rounded
 				bg-slate-400 hover:bg-slate-300 hover:text-slate-600 \
 				dark:bg-slate-800 text-slate-100 dark:text-slate-300
 				hover:dark:bg-slate-700 mb-2 mr-2"

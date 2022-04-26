@@ -1,10 +1,11 @@
 <script>
 	import { onMount } from 'svelte';
+	import { fade } from 'svelte/transition';
 
 	export let passage = '';
 	export let width = 'w-full';
 
-	let passageHtml = 'Loading...';
+	let passageHtml = '';
 
 	const getVerse = async (verse) => {
 		let res = await fetch(`/api/verse/${verse.toLowerCase().replace(/ /g, '+')}`);
@@ -20,9 +21,14 @@
 	});
 </script>
 
-<div class={`verse text-gray-400 text-sm ${width}`}>
-	{@html passageHtml}
-</div>
+{#if passageHtml}
+	<div
+		transition:fade={{ delay: 100, duration: 250 }}
+		class={`verse text-gray-400 text-sm ${width}`}
+	>
+		{@html passageHtml}
+	</div>
+{/if}
 
 <style>
 	.verse :global(.verse-num) {

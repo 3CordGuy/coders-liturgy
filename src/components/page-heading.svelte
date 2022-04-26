@@ -6,11 +6,11 @@
 	export let subtitle = '';
 </script>
 
-<div class="col-start-3 col-span-8">
+<div class="col-start-3 col-span-8 mb-4">
 	<h1
 		{id}
 		class={`text-2xl tracking-tight font-extrabold
-	        text-rose-600 sm:text-5xl
+	        text-rose-600 sm:text-5xl mb-2
 			md:text-5xl ${classes} ${hasBrackets ? 'lowercase' : ''}`}
 	>
 		{#if hasBrackets}
@@ -20,6 +20,6 @@
 		{/if}
 	</h1>
 	{#if subtitle}
-		<h2 class="text-xl text-gray-500 mb-8">{subtitle}</h2>
+		<h2 class="text-xl text-gray-500">{subtitle}</h2>
 	{/if}
 </div>
