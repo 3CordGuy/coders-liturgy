@@ -2,6 +2,8 @@
 
 This is the source code for Coder's Liturgy — A website of prayerful heart meditations for Christian coders.
 
+The site can be found here: [https://codersliturgy.com](https://codersliturgy.com)
+
 ## What's it made with?
 
 - Sveltekit
