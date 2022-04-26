@@ -37,8 +37,8 @@
 	</p>
 	<p>
 		It&#39;s a bit of a scary thing to bare your heart—and to do it online. But I believe I&#39;m
-		not alone in this. I felt compelled to make this public. Maybe it will help you as well, my
-		friend.
+		not alone in this. I felt compelled to make this public. Maybe these prayers and thoughts will
+		encourage you as well, my friend.
 	</p>
 	<Gravatar />
 </article>
