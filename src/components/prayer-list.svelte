@@ -8,7 +8,7 @@
 <div class="flow-root">
 	<ul class="space-y-4">
 		{#each items as item}
-			<li transition:fade={{ delay: 150, duration: 200 }}>
+			<li>
 				<div
 					class="relative focus-within:ring-2
 						   focus-within:p-4 focus-within:ring-yellow-500
