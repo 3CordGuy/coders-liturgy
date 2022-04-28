@@ -31,7 +31,8 @@ Today, I am praising you for this provision in my own life.
 
 As I receive this compensation, I trace its origin back to the giver of all good things.
 
-Forgive me for being so bold as to think that I alone have earned this repayment of my time and energies. I would not be here without your goodness.<br/>
+Forgive me for being so bold as to think that I alone have earned this repayment of my time and energies.<br/>
+I would not be here without your grace and mercies poured out along my path.<br/>
 For who has given to you anything that you might repay them?<br/>
 I am owed nothing by you.
 
