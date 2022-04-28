@@ -38,7 +38,7 @@ I am owed nothing by you.
 
 **Yet, you supply.**
 
-And In this arrival of this bounty, I ask for wisdom.<br/>
+And with the arrival of this bounty, I ask for wisdom.<br/>
 Help me to rightly allocate these resources.<br/>
 Give me a kingdom focus and a heart to love others.<br/>
 Ready to give—because you gave all in Jesus.<br/>
