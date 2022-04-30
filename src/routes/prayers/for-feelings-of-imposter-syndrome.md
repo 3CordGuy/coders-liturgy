@@ -5,7 +5,8 @@ tags:
   - comparison
   - impostor syndrome
   - self-doubt
-description: We all feel weak and like impostors at times.
+  - strength
+description: We all feel weak and like imposters at times.
 icons:
   - { name: 'eye', color: 'indigo-400' }
   - { name: 'heart', color: 'red-400' }
