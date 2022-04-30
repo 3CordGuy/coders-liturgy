@@ -22,23 +22,13 @@
 <div class="px-4 pb-12 md:grid grid-cols-1 gap-y-4 gap-x-8 md:grid-cols-12">
 	<article class="col-start-1 lg:col-start-3 col-end-8">
 		<div class="flex flex-col mb-4">
-			<div>
-				<PageHeading
-					classes="mt-2 mb-2"
-					hasBrackets={false}
-					text={title}
-					id="when-lacking-motivation"
-					subtitle={description}
-				/>
-
-				{#if icons}
-					<div class="flex flex-row mb-4">
-						{#each icons as icon}
-							<Icon iconName={icon.name} classes={`w-16 h-16 md:w-24 md:h-24 text-${icon.color}`} />
-						{/each}
-					</div>
-				{/if}
-			</div>
+			<PageHeading
+				classes="mt-2 mb-2"
+				hasBrackets={false}
+				text={title}
+				id="when-lacking-motivation"
+				subtitle={description}
+			/>
 		</div>
 
 		<div class="mb-8 prose lg:prose-lg prose-slate dark:prose-invert">
@@ -54,6 +44,14 @@
 		</div>
 	</article>
 	<aside class="col-span-5 lg:col-span-3 col-start-8 mt-4">
+		<div class="flex flex-row grow mb-4 overflow-hidden rounded">
+			{#if icons}
+				{#each icons as icon}
+					<Icon iconName={icon.name} classes={`w-1/2 md:w-1/2 text-${icon.color}`} />
+				{/each}
+			{/if}
+		</div>
+
 		<VerseBlock>
 			<div class="flex flex-row items-center mb-4 pb-2 border-b border-gray-600">
 				<svg
