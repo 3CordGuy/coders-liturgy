@@ -25,13 +25,13 @@
 	</p>
 	<p>
 		Our motives and heart behind our work can make all the difference between good work and just
-		another task. This website aims to provide some simple prayers as a means of heart redirecting,
-		aligning our thoughts towards God's word and what is true at the end of hitting commit and
-		submit on our code.
+		another task. This website aims to provide some meditative prayers and scripture as a means of
+		heart redirecting, aligning our thoughts towards God's word and what is true at the end of the
+		day.
 	</p>
 	<p>
 		Truthfully, I built this for myself. To assuage the fears, to subdue the grumbling, and to point
-		my heart in a better direction. When it displays selfishness and pride, these words are
+		my heart in a better direction. When my heart displays selfishness and pride, these words are
 		reminders written for myself. They are joined with what I believe are true, God-breathed
 		scripture.
 	</p>
