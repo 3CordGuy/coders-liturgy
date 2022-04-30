@@ -1,8 +1,23 @@
+<script context="module">
+	export const load = ({ url }) => {
+		const currentRoute = url.pathname;
+
+		return {
+			props: {
+				currentRoute
+			}
+		};
+	};
+</script>
+
 <script>
 	import Footer from '../components/footer.svelte';
 	import '../app.css';
 	import Hero from '../components/hero.svelte';
 	import Nav from '../components/nav.svelte';
+	import { fade } from 'svelte/transition';
+
+	export let currentRoute;
 </script>
 
 <div
@@ -12,8 +27,15 @@
 	<header class="flex-shrink-0 flex-2 justify-between">
 		<Hero />
 	</header>
-	<main id="layout-main" class="mx-auto grow bg-white dark:bg-slate-900">
-		<slot />
-	</main>
+	{#key currentRoute}
+		<main
+			in:fade={{ duration: 150, delay: 100 }}
+			out:fade={{ duration: 150 }}
+			id="layout-main"
+			class="mx-auto grow bg-white dark:bg-slate-900"
+		>
+			<slot />
+		</main>
+	{/key}
 	<Footer />
 </div>
