@@ -6,6 +6,7 @@ icons:
   - { name: 'dollar', color: 'green-400' }
 tags:
   - payday
+  - sufficiency
   - provision
   - gratitude
   - job
@@ -13,8 +14,9 @@ date: 2022-04-28
 verses:
   - James 1:17
   - Matthew 6:26-29
-  - Romans 11:33-36
+  - Heb 13:5
   - 1 John 4:10
+  - Romans 11:33-36
 ---
 
 God of Provision,
