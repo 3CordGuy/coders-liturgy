@@ -17,17 +17,19 @@ verses:
 O God of Great Patience and Mercy,
 
 I thank you for your grace.<br/>
-It is a mercy all it's own, that trouble is not altogether more common.
+It is a mercy all its own,<br/>
+that trouble is not more common.
 
 But right now, I struggle, Lord.
 
-While it appears a great chasm, this gap between reality and my desires,
+While it appears a great chasm;<br/>
+this gap between reality and my desires.<br/>
 I confess my discontent and frustration over it.
 
 Forgive me for a grumbling heart.
 
 I presume these desires to be of good intent,<br/>
-but I admit I don't know what is best for all situations
+but I admit I don't know what is best for all situations<br/>
 and my feelings may betray me.
 
 Therefore grant wisdom so I may rightly engage my thoughts and actions.<br/>
