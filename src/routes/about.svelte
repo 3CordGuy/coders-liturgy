@@ -33,7 +33,8 @@
 		Truthfully, I built this for myself. To assuage the fears, to subdue the grumbling, and to point
 		my heart in a better direction. When my heart displays selfishness and pride, these words are
 		reminders written for myself. They are joined with what I believe are true, God-breathed
-		scripture.
+		scripture. This work is inspired by a couple volumes of beautiful prayers called "Every Moment Holy." 
+		I just found myself wishing there were writings that were more relatable to me as a creator and coder.
 	</p>
 	<p>
 		It&#39;s a bit of a scary thing to bare your heart—and to do it online. But I believe I&#39;m
