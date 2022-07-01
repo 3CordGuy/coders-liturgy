@@ -45,7 +45,7 @@ but also the benefit of my co-workers and those using this software.
 Remind me that in doing this with excellence,
 I am loving them as you have commanded me.
 
-May I write them in a way that accomplishes safety and security, without
+May I write these tests in a way that accomplishes safety and security, without
 brittleness and excess.
 
 May I work with diligence — a steady mind faithful to the task.
