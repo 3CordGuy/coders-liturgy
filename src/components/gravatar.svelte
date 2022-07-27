@@ -12,7 +12,7 @@
 			{name}
 		</div>
 		<div class="text-sm font-small dark:text-gray-500 text-gray-500">
-			Currently works full time as a Software Engineer for Tithe.ly and has spent the last 10 years
+			Currently works full time as a Software Engineer for TeamGantt.com and has spent the last 10 years
 			as a developer in the Church Management and Non-profit software space. A husband, and father
 			of 3, he helps lead worship for <a class="text-yellow-400" href="https://youareloved.church"
 				>Wawasee Bible Church</a
