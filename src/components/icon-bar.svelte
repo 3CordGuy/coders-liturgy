@@ -9,7 +9,7 @@
 	import Pray from '../icons/pray.svelte';
 </script>
 
-<div class="w-full flex flex-row">
+<div class="w-full flex flex-row bg-white dark:bg-slate-900">
 	<Eye classes="text-green-400" />
 	<Growth classes="text-blue-400" />
 	<Heart classes="text-red-400" />

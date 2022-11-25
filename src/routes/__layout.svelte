@@ -21,7 +21,7 @@
 </script>
 
 <div
-	class="flex flex-grow flex-shrink-0 flex-col bg-white dark:bg-slate-900 selection:bg-yellow-400 selection:text-slate-800"
+	class="flex flex-grow flex-shrink-0 flex-col bg-white dark:bg-slate-900 selection:bg-yellow-400 selection:text-slate-800 hero-bg"
 >
 	<Nav slot="nav" />
 	<header class="flex-shrink-0 flex-2 justify-between">
@@ -32,7 +32,7 @@
 			in:fade={{ duration: 150, delay: 100 }}
 			out:fade={{ duration: 150 }}
 			id="layout-main"
-			class="mx-auto grow bg-white dark:bg-slate-900"
+			class="mx-auto grow "
 		>
 			<slot />
 		</main>
