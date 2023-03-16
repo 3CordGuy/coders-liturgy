@@ -53,7 +53,7 @@ Not having answers,<br/>
 not being an expert,<br/>
 starting from zero,<br/>
 using tools I am uncomfortable with,<br/>
-this stretching—will lead to resilience, and reliance on you.<br/>
+this stretching—may it lead to resilience, and reliance on you.<br/>
 
 Forgive me for demanding or expecting otherwise.
 For you began a good work in me, and will love me unto its completion.
