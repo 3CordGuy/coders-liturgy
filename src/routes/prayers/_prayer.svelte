@@ -20,7 +20,7 @@
 </svelte:head>
 
 <div class="px-4 pb-12 md:grid grid-cols-1 gap-y-4 gap-x-8 md:grid-cols-12">
-	<article class="col-start-1 lg:col-start-3 col-end-8">
+	<article class="col-start-1 lg:col-start-3 col-end-8 backdrop-blur-sm px-2">
 		<div class="flex flex-col mb-4">
 			<PageHeading
 				classes="mt-2 mb-2"
